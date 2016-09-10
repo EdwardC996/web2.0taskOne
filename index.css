@@ -1,0 +1,33 @@
+
+body {
+	background-image:url("http://static16.photo.sina.com.cn/middle/61b46ea8xde8257415e0f&690"); /*--background picture--*/
+	background-repeat:repeat-x;
+	background-color:transparent;
+}
+
+h1 {
+	font-family:Verdana, Geneva, sans-serif; /*--set the character form--*/
+	font-size:22pt;   /* the size of character */
+	font-weight: bold; /* the thickness of character */
+	text-align:center;  /* the way to align the text */
+	background-color:#f0f0f0;
+}
+
+a {
+	text-align: center;
+	font-weight: bold;
+	font-size:2.5em;
+	background-color:#f0f0f0;
+}
+
+#cake {
+	position: absolute;
+	right:50px;
+	top:100px;
+}
+
+#pie {
+	position: absolute;
+	left:50px;
+	top:100px;
+}
